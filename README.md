@@ -18,10 +18,10 @@ Sistema desenvolvido na  linguagem C para Gerenciamento de estoque
 - Compatibilidade: Cross-platform (Windows e Linux)
 
 👥 Desenvolvedores
-Guilherme B. Fontes
+- Pedro Henrique S. Alves
 
-José Deyvid M. Pereira
+- Guilherme B. Fontes
 
-Lícia T. Araújo Freires
+- Lícia T. Araújo Freires
 
-Pedro Henrique S. Alves
+- José Deyvid M. Pereira
